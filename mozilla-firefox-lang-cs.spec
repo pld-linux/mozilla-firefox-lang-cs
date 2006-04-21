@@ -1,5 +1,5 @@
 
-%define         _lang		cs
+%define		_lang		cs
 
 Summary:	Czech resources for Mozilla-firefox
 Summary(pl):	Czeskie pliki jêzykowe dla Mozilli-firefox

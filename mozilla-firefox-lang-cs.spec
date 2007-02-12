@@ -2,7 +2,7 @@
 %define		_lang		cs
 
 Summary:	Czech resources for Mozilla-firefox
-Summary(pl):	Czeskie pliki jêzykowe dla Mozilli-firefox
+Summary(pl.UTF-8):   Czeskie pliki jÄ™zykowe dla Mozilli-firefox
 Name:		mozilla-firefox-lang-%{_lang}
 Version:	2.0.0.1
 Release:	1
@@ -22,8 +22,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Czech resources for Mozilla-firefox.
 
-%description -l pl
-Czeskie pliki jêzykowe dla Mozilli-firefox.
+%description -l pl.UTF-8
+Czeskie pliki jÄ™zykowe dla Mozilli-firefox.
 
 %prep
 

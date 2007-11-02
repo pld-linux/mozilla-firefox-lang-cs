@@ -2,12 +2,12 @@
 Summary:	Czech resources for Mozilla-firefox
 Summary(pl.UTF-8):	Czeskie pliki językowe dla Mozilli-firefox
 Name:		mozilla-firefox-lang-%{_lang}
-Version:	2.0.0.8
-Release:	2
+Version:	2.0.0.9
+Release:	1
 License:	GPL
 Group:		X11/Applications/Networking
 Source0:	http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/%{version}/linux-i686/xpi/%{_lang}.xpi
-# Source0-md5:	794a41e096abd72ba4062af3e676fdee
+# Source0-md5:	142cfcb04ddb9c41f618542ae0909e88
 URL:		http://www.mozilla.org/
 BuildRequires:	unzip
 Requires:	mozilla-firefox >= %{version}

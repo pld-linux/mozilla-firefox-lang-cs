@@ -5,7 +5,7 @@ Name:		mozilla-firefox-lang-%{_lang}
 Version:	2.0.0.14
 Release:	1
 License:	GPL
-Group:		X11/Applications/Networking
+Group:		I18n
 Source0:	http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/%{version}/linux-i686/xpi/%{_lang}.xpi
 # Source0-md5:	eede6d40f1a09d6d83e3e64623ffa3ca
 URL:		http://www.mozilla.org/
